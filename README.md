@@ -1,5 +1,4 @@
 # LCA LangSmith Professional
-
 Course materials for LangSmith Professional, with Python and TypeScript implementations.
 
 ## Project Structure
